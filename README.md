@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **mehmetatonga@gmail.com**
 
