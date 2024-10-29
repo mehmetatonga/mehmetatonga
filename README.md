@@ -1,12 +1,12 @@
 ![MasterHead](https://careerswithstem.com.au/wp-content/uploads/2017/07/Highlight-banner_8stages.jpg)
 <h1 align="center">Hi 👋, I'm Mehmet Ali TONGA</h1>
-<h3 align="center">A passionate fullstack developer from Türkiye</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV5dDg2dXF6ajZ2dmM4NWxueXpvMTJoY2U3Y2pnZ2x0NjVsZHJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp">
+<h3 align="center">A passionate fullstack and ai developer from Türkiye</h3>
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV5dDg2dXF6ajZ2dmM4NWxueXpvMTJoY2U3Y2pnZ2x0NjVsZHJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp">
 
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **C# and Python**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **mehmetatonga@gmail.com**
 
