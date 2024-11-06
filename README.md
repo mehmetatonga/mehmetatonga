@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mehmetatonga@gmail.com**
 
-- 🌎 Personal Website **[https://mehmetalitonga.com/](mehmetalitonga.com)**
+- 🌎 Personal Website **[mehmetatlitonga.com](https://mehmetalitonga.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
